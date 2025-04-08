@@ -1,0 +1,26 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter",
+      "content": "Học cách xây dựng ứng dụng Flutter cơ bản",
+      "priority": 3,
+      "createdAt": "2025-04-08T12:00:00Z",
+      "modifiedAt": "2025-04-08T12:00:00Z",
+      "tags": "Học tập,Flutter",
+      "color": "#FF0000",
+      "isCompleted": 0
+    },
+    {
+      "id": 2,
+      "title": "Mua sắm",
+      "content": "Mua thực phẩm cho tuần này",
+      "priority": 2,
+      "createdAt": "2025-04-08T12:00:00Z",
+      "modifiedAt": "2025-04-08T12:00:00Z",
+      "tags": "Cá nhân,Mua sắm",
+      "color": "#FFFF00",
+      "isCompleted": 0
+    }
+  ]
+}
